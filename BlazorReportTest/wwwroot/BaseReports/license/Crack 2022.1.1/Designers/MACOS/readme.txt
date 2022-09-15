@@ -1,1 +1,0 @@
-After designer installation replace ./Stimulsoft Designer.app/Contents/Resources/app.nw/scripts/stimulsoft.reports.js with cracked one
